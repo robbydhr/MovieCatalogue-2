@@ -1,10 +1,11 @@
-<resources>
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Movie and Tv Catalogue</string>
     <string name="tab_text_1">Movie</string>
     <string name="tab_text_2">Tv Show</string>
 
-    <string name="app_detail_film">Detail Film</string>
-    <string name="app_detail_tv">Detail Tv Show</string>
+    <string name="app_detail_film">Details Film</string>
+    <string name="app_detail_tv">Details Tv Show</string>
 
     <string name="title_film">title_film</string>
     <string name="user_score">User Score</string>
@@ -15,33 +16,33 @@
     <string name="date">February 15, 2019</string>
 
     <string-array name="data_title_film">
-        <item>A Star Is Born (2018)</item>
-        <item>Aquaman (2018)</item>
-        <item>Avengers: Infinity War (2018)</item>
-        <item>Bird Box (2018)</item>
-        <item>Bohemian Rhapsody (2018)</item>
-        <item>Bumblebee (2018)</item>
-        <item>Creed II (2018)</item>
-        <item>Once Upon a Deadpool (2018)</item>
-        <item>How to Train Your Dragon: The Hidden World (2019)</item>
-        <item>Dragon Ball Super: Broly (2018)</item>
-        <item>Glass (2019)</item>
-        <item>Hunter Killer (2018)</item>
+        <item>A Star Is Born</item>
+        <item>Aquaman</item>
+        <item>Avengers: Infinity War</item>
+        <item>Bird Box</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Bumblebee</item>
+        <item>Creed II</item>
+        <item>Once Upon a Deadpool</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+        <item>Dragon Ball Super: Broly</item>
+        <item>Glass</item>
+        <item>Hunter Killer</item>
     </string-array>
 
     <string-array name="data_title_tv">
-        <item>Arrow (2012)</item>
-        <item>Doom Patrol (2019)</item>
-        <item>Dragon Ball (1986)</item>
-        <item>Fairy Tail (2009)</item>
-        <item>Family Guy (1999)</item>
-        <item>The Flash (2014)</item>
-        <item>Game of Thrones (2011)</item>
-        <item>Gotham (2014)</item>
-        <item>Grey\'s Anatomy (2005)</item>
-        <item>Hanna (2019)</item>
-        <item>Marvel\'s Iron Fist (2017)</item>
-        <item>Naruto Shippūden (2007)</item>
+        <item>Arrow</item>
+        <item>Doom Patrol</item>
+        <item>Dragon Ball</item>
+        <item>Fairy Tail</item>
+        <item>Family Guy</item>
+        <item>The Flash</item>
+        <item>Game of Thrones</item>
+        <item>Gotham</item>
+        <item>Grey\'s Anatomy</item>
+        <item>Hanna</item>
+        <item>Marvel\'s Iron Fist</item>
+        <item>Naruto Shippūden</item>
     </string-array>
 
     <string-array name="data_description_film">

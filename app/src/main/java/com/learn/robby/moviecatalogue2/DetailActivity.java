@@ -13,10 +13,10 @@ import com.learn.robby.moviecatalogue2.Model.Tv;
 
 public class DetailActivity extends AppCompatActivity {
 
-    TextView txtTitle, txtScore, txtRuntime, txtLanguage, txtDesc, txtDate;
+    TextView txtTitle, txtScore, txtRuntime, txtLanguage, txtDate, txtDesc;
     ImageView imgFilm;
 
-    String dTitle, dScore, dRuntime, dLanguage, dDesc, dDate, dFact;
+    String dTitle, dDesc, dFact;
     int dImg;
 
     @Override
